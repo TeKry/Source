@@ -2,9 +2,9 @@ Resources
 
 CentOS 6.8 下载地址：
 
- 32位 http://mirrors.sohu.com/centos/6.8/isos/i386/CentOS-6.8-i386-bin-DVD1.iso
+   32位 http://mirrors.sohu.com/centos/6.8/isos/i386/CentOS-6.8-i386-bin-DVD1.iso
  
- 64位 http://mirrors.sohu.com/centos/6.8/isos/x86_64/CentOS-6.8-x86_64-bin-DVD1.iso
+     64位 http://mirrors.sohu.com/centos/6.8/isos/x86_64/CentOS-6.8-x86_64-bin-DVD1.iso
 
 
 CentOS 6.7 下载地址：
