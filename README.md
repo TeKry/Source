@@ -120,12 +120,12 @@ memcached Download Address：
 
 redis Download Address：
 
-     https://codeload.github.com/antirez/redis/tar.gz/2.8.21  (下载后改名redis-2.8.21.tar.gz)
+     https://codeload.github.com/antirez/redis/tar.gz/2.8.21  ( Download Renamed After：redis-2.8.21.tar.gz)
 
 
 redis PHP extension Download Address：
 
-     https://codeload.github.com/phpredis/phpredis/zip/develop （下载后改名phpredis-develop.zip）
+     https://codeload.github.com/phpredis/phpredis/zip/develop （ Download Renamed After：phpredis-develop.zip）
 
 
 mongodb PHP extension Download Address：
@@ -146,10 +146,10 @@ java JDK Download Address：
  
 Version1.8 Download Address：
     
-     http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html
+      http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html
 
 Version1.7 Download Address：  
-     http://www.oracle.com/technetwork/java/javase/downloads/jdk7-downloads-1880260.html
+      http://www.oracle.com/technetwork/java/javase/downloads/jdk7-downloads-1880260.html
 
 
 Tomcat Download Address：
