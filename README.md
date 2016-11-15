@@ -1,3 +1,1 @@
-Network Resources：
-   Software Package
-   System Image
+Network resources include：Software Package、System Image、Electronic books
